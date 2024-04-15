@@ -39,4 +39,4 @@ With all of that in mind, the different combinations of MSV70, MSV80, MSD80, wit
 
 I will start off by tracing the wiring diagrams, and create my own diagram to demonstrate the harness that I will be making. This is because newtis separates the diagrams into each module, and can be difficult to follow.
 
-![alt text](https://github.com/samuria/blog-posts/blob/main/E90%20Bench%20Wiring.png?raw=true)
+![alt text](https://github.com/samuria/blog-posts/blob/main/wiring-v1.png?raw=true)
