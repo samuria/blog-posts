@@ -28,13 +28,15 @@ I have lots of wire that I pulled from a spare E90, as well as all the OEM plugs
 
 I have decided to start off with reading lots of existing documentation/research that have already been done by other people, these are some great resources I have found:
 
-- https://www.spoolstreet.com/threads/e9x-bench-setup.6469/
-- https://cartechnology.co.uk/printthread.php?tid=40758&page=1 - fairly long thread, but great info.
-- https://e46canbus.blogspot.com/2016/12/e90-test-bench.html
-- https://www.aliexpress.com/i/32978418413.html - this is a prebuilt test platform harness from aliexpress.
-- https://www.newtis.info/tisv2/a/en/ - wiring diagrams for all BMW vehicles. You will need to figure out how to get access, as it is no longer "public".
+- [https://www.spoolstreet.com/threads/e9x-bench-setup.6469/](https://www.spoolstreet.com/threads/e9x-bench-setup.6469/)
+- [https://cartechnology.co.uk/printthread.php?tid=40758&page=1](https://cartechnology.co.uk/printthread.php?tid=40758&page=1) - fairly long thread, but great info.
+- [https://e46canbus.blogspot.com/2016/12/e90-test-bench.html](https://e46canbus.blogspot.com/2016/12/e90-test-bench.html)
+- [https://www.aliexpress.com/i/32978418413.html](https://www.aliexpress.com/i/32978418413.html)- this is a prebuilt test platform harness from aliexpress.
+- [https://www.newtis.info/tisv2/a/en/](tab:https://www.newtis.info/tisv2/a/en/) - wiring diagrams for all BMW vehicles. You will need to figure out how to get access, as it is no longer "public".
 
 
 With all of that in mind, the different combinations of MSV70, MSV80, MSD80, with CAS 2 or CAS3 can all have different connectivity/wiring pins. For now I will only be working with what I have, which is a MSV70 and a CAS2 module.
 
 I will start off by tracing the wiring diagrams, and create my own diagram to demonstrate the harness that I will be making. This is because newtis separates the diagrams into each module, and can be difficult to follow.
+
+<!-- ![alt text]() -->
