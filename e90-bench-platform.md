@@ -26,6 +26,8 @@ You may not need all of these, this post will mostly cover how to connect the DM
 ### Wiring
 I have lots of wire that I pulled from a spare E90, as well as all the OEM plugs for the modules specified above. The plan is to create my own **platform harness**, this harness will facilitate the DME, JBE, CAS and the OBD port to start with. Maybe at a later stage I can add a CCC or CIC into the loom as well.
 
+
+
 I have decided to start off with reading lots of existing documentation/research that have already been done by other people, these are some great resources I have found:
 
 - [https://www.spoolstreet.com/threads/e9x-bench-setup.6469/](https://www.spoolstreet.com/threads/e9x-bench-setup.6469/)
@@ -34,9 +36,8 @@ I have decided to start off with reading lots of existing documentation/research
 - [https://www.aliexpress.com/i/32978418413.html](https://www.aliexpress.com/i/32978418413.html)- this is a prebuilt test platform harness from aliexpress.
 - [https://www.newtis.info/tisv2/a/en/](tab:https://www.newtis.info/tisv2/a/en/) - wiring diagrams for all BMW vehicles. You will need to figure out how to get access, as it is no longer "public".
 
-
 With all of that in mind, the different combinations of MSV70, MSV80, MSD80, with CAS 2 or CAS3 can all have different connectivity/wiring pins. For now I will only be working with what I have, which is a MSV70 and a CAS2 module.
 
-I will start off by tracing the wiring diagrams, and create my own diagram to demonstrate the harness that I will be making. This is because newtis separates the diagrams into each module, and can be difficult to follow.
+I will start off by tracing the wiring diagram on newtis, and create my own diagram to demonstrate the harness that I will be making. This is because newtis separates the diagrams into each module, and can be difficult to follow. Having all the modules in one diagram will be helpful to visualise.
 
 ![alt text](https://github.com/samuria/blog-posts/blob/main/wiring-v1.png?raw=true)
