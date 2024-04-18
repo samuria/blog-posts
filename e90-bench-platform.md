@@ -23,8 +23,6 @@ As of writing this post, I do not have my hands on a spare MSD80/81 DME, or the 
 
 You may not need all of these, this post will mostly cover how to connect the DME, CAS2, and JBE so we can start to communicate and read data from the DME or the CAS. *I warn you again, I am learning as I type this post, and certain things may be incorrect. I will do my best to come back and correct things if I find that I was incorrect.*
 
-![Spare modules that I have](https://github.com/samuria/blog-posts/blob/main/spare-modules.jpg?raw=true)
-
 <center><img src="https://github.com/samuria/blog-posts/blob/main/spare-modules.jpg?raw=true" width="500"></img></center>
 
 ### Wiring
